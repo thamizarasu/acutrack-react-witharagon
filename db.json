@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "test@ex.com",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "email": "test2@ex.com",
+      "password": "123"
+    }
+  ],
+  "vehicles": [
+    {
+      "make": "Infiniti",
+      "model": "M35",
+      "id": 4
+    },
+    {
+      "make": "Chevy",
+      "model": "Bolt",
+      "id": 5
+    },
+    {
+      "make": "Honda",
+      "model": "Civic",
+      "id": 6
+    }
+  ]
+}
